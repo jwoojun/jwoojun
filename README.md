@@ -1,12 +1,18 @@
 # Introduce
-
+Cancel changes
 
 
 - 👀 I’m interested in ...
+Back-end
+
 - 🌱 I’m currently learning ...
+Java, Spring, 
+
 - 💞️ I’m looking to collaborate on ...
+
+
 - 📫 How to reach me ...
-____
+
 
 
 <!---
